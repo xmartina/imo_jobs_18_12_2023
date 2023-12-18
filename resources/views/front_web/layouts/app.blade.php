@@ -173,7 +173,7 @@
         }		</style>
 </head>
 
-    @yield('page_scripts')
+{{--    @yield('page_scripts')--}}
     @foreach(googleJobSchema() as $jobSchema)
         {!! nl2br($jobSchema) !!}
     @endforeach
