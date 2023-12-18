@@ -154,8 +154,6 @@
     <script src="{{asset('new_template/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.3.1)}}" id="woocommerce-js" defer="" data-wp-strategy="defer"></script>
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jthemes.com/themes/wp/jobbox/xmlrpc.php?rsd" >
 
-    <link rel="alternate" type="application/json+oembed" href="{{asset ('new_template/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjthemes.com%2Fthemes%2Fwp%2Fjobbox%2F') }}" >
-    <link rel="alternate" type="text/xml+oembed" href="{{asset ('new_template/wp-json/oembed/1.0/embed-1?url=https%3A%2F%2Fjthemes.com%2Fthemes%2Fwp%2Fjobbox%2F&#038;format=xml')  }}" >
     <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
     <style id="wp-custom-css">
         body .mt-5{
