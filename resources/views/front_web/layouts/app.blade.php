@@ -146,8 +146,8 @@
     <script id="wc-add-to-cart-js-extra">
         var wc_add_to_cart_params = {"ajax_url":"\/themes\/wp\/jobbox\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/themes\/wp\/jobbox\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/jthemes.com\/themes\/wp\/jobbox\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
     </script>
-    <script src="{{asset('new_template/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.3.1)}}" id="wc-add-to-cart-js" defer="" data-wp-strategy="defer"></script>
-    <script src="{{asset('new_template/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.3.1)}}" id="js-cookie-js" defer="" data-wp-strategy="defer"></script>
+    <script src="{{asset('new_template/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.3.1')}}" id="wc-add-to-cart-js" defer="" data-wp-strategy="defer"></script>
+    <script src="{{asset('new_template/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.3.1')}}" id="js-cookie-js" defer="" data-wp-strategy="defer"></script>
     <script id="woocommerce-js-extra">
         var woocommerce_params = {"ajax_url":"\/themes\/wp\/jobbox\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/themes\/wp\/jobbox\/?wc-ajax=%%endpoint%%"};
     </script>
