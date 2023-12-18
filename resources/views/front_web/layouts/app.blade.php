@@ -140,9 +140,9 @@
     <style id='control-block-patterns-inline-css'>
         .stick + .main{padding-top: 77px;}
     </style>
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script src="{{asset('wp-includes/js/jquery/jquery.min.js?ver=3.7.1)}}" id="jquery-core-js"></script>
-    <script src="{{asset('wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1)}}" id="jquery-migrate-js"></script>
-    <script src="{{asset('new_template/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.3.1)}}" id="jquery-blockui-js" defer="" data-wp-strategy="defer"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script src="{{asset('new_template/wp-includes/js/jquery/jquery.min.js?ver=3.7.1')}}" id="jquery-core-js"></script>
+    <script src="{{asset('new_template/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1')}}" id="jquery-migrate-js"></script>
+    <script src="{{asset('new_template/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.3.1')}}" id="jquery-blockui-js" defer="" data-wp-strategy="defer"></script>
     <script id="wc-add-to-cart-js-extra">
         var wc_add_to_cart_params = {"ajax_url":"\/themes\/wp\/jobbox\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/themes\/wp\/jobbox\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/jthemes.com\/themes\/wp\/jobbox\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
     </script>
