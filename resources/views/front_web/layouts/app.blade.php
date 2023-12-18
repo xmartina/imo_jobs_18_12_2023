@@ -66,7 +66,7 @@
     <link rel='stylesheet' id='jobbox-uicons-css' href="{{ asset('new_template/wp-content/themes/jobbox/assets/css/vendors/uicons-regular-rounded.css?ver=1.0.0') }}" media='all'>
     <link rel='stylesheet' id='fontawesome-css' href="{{ asset('new_template/wp-content/themes/jobbox/assets/css/all.min.css?ver=6.2.0') }}" media='all'>
     <link rel='stylesheet' id='jobbox-swiper-css' href="{{ asset('new_template/wp-content/themes/jobbox/assets/css/plugins/swiper-bundle.min.css?ver=8.3.2') }}" media='all'>
-    <link rel='stylesheet' id='jobbox-magnific-css' href="{{asset(new_template/wp-content/themes/jobbox/assets/css/plugins/magnific-popup.css?ver=1.1.0')}}" media='all'>
+    <link rel='stylesheet' id='jobbox-magnific-css' href="{{asset('new_template/wp-content/themes/jobbox/assets/css/plugins/magnific-popup.css?ver=1.1.0')}}" media='all'>
     <link rel='stylesheet' id='jobbox-select2-css' href="{{asset('new_template/wp-content/themes/jobbox/assets/css/plugins/select2.min.css?ver=1.0.0')}}" media='all'>
     <link rel='stylesheet' id='jobbox-perfect-scrollbar-css' href="{{asset('new_template/wp-content/themes/jobbox/assets/css/plugins/perfect-scrollbar.css?ver=1.0.0')}}" media='all'>
     <link rel='stylesheet' id='jobbox-animate-css' href="{{asset('new_template/wp-content/themes/jobbox/assets/css/plugins/animate.min.css?ver=3.5.2')}}" media='all'>
