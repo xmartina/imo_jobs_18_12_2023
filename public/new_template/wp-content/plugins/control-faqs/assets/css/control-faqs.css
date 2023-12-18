@@ -1,0 +1,15 @@
+.ctrlf-grid {
+  display: grid;
+  -moz-column-gap: 32px;
+       column-gap: 32px;
+}
+
+@media (min-width: 768px) {
+  .ctrlf-grid--col-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .ctrlf-grid--col-3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+/*# sourceMappingURL=control-faqs.css.map */
