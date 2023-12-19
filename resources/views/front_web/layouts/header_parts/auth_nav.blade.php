@@ -6,3 +6,5 @@
            data-bs-toggle="modal">{{ __('web.login') }}</a>
     </div>
 </div>
+@else
+@endif
