@@ -56,8 +56,8 @@ class HomeController extends AppBaseController
         $data['recentBlog'] = $this->homeRepository->getRecentBlog();
         $data['cmsServices'] = CmsServices::pluck('value', 'key')->toArray();
         $data['color'] = Setting::COLOR;
-        // return view('front_web.home.home')->with($data);
-        return Inertia::render('Landing', $data);
+         return view('front_web.home.home')->with($data);
+//        return Inertia::render('Landing', $data);
     }
 
     /**
