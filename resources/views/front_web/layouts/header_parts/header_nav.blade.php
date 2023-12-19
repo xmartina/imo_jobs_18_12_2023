@@ -4,7 +4,7 @@
 
             <div class="header-left">
                 <div class="header-logo">
-                    <a class="d-flex" href="{{ route('web.home') }}">
+                    <a class="d-flex" href="{{ url('/') }}">
                         <img alt="Jobbox" src="{{ asset($settings['logo']) }}">
                     </a>
                 </div>
