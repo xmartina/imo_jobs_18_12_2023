@@ -103,3 +103,10 @@ body .pb-5{
 
 /*footer Style*/
 .wp-container-core-social-links-layout-1.wp-container-core-social-links-layout-1{gap:9px 9px;}
+
+
+@media (max-width: 1020px) {
+    header {
+        height: 97px;
+    }
+}
