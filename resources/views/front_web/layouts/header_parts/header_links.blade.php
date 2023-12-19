@@ -1,9 +1,9 @@
 <li id="menu-item-93"
-    class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-93 has-children">
+    class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-93">
     <a href="{{ route('front.home') }}" aria-current="page" class="{{ Request::is('/') ? 'active' : '' }}">{{ __('web.home') }}</a>
 </li>
 <li id="menu-item-145"
-    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-145 has-children">
+    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145 ">
     <a class="{{ Request::is('search-jobs') || Request::is('job-details*') ? 'active' : '' }}" href="{{ route('front.search.jobs') }}">{{ __('web.jobs') }}</a>
 </li>
 <li id="menu-item-134"
