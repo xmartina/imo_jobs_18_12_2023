@@ -5,3 +5,5 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 var wc_add_to_cart_params = {"ajax_url":"\/themes\/wp\/jobbox\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/themes\/wp\/jobbox\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/jthemes.com\/themes\/wp\/jobbox\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
 
 var woocommerce_params = {"ajax_url":"\/themes\/wp\/jobbox\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/themes\/wp\/jobbox\/?wc-ajax=%%endpoint%%"};
+
+
