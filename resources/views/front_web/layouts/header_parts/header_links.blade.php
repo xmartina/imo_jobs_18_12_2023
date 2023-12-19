@@ -7,8 +7,8 @@
     <a class="{{ Request::is('search-jobs') || Request::is('job-details*') ? 'active' : '' }}" href="{{ route('front.search.jobs') }}">{{ __('web.jobs') }}</a>
 </li>
 <li id="menu-item-134"
-    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-134 has-children">
-    <a href="recruiters/index.htm">Recruiters</a>
+    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134 {{ Request::is('company-lists') || Request::is('company-details*') ? 'active' : '' }}">
+    <a href="{{ route('front.company.lists') }}">{{ __('web.companies') }}</a>
     <ul class="sub-menu">
         <li id="menu-item-135"
             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a
