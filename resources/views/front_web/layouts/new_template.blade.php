@@ -2,9 +2,6 @@
     <meta name='robots' content='max-image-preview:large'>
     <link rel='dns-prefetch' href='https://code.jquery.com'>
     <link rel='dns-prefetch' href='https://fonts.googleapis.com'>
-    <link rel="stylesheet" href="{{asset('new_template/adjustments.css')}}" id="wp-emoji-styles-inline-css">
-{{--    <link rel="stylesheet" href="{{asset('new_template/adjustments.css')}}" id="global-styles-inline-css">--}}
-    <script src="{{asset('new_template/adjustments.js')}}"></script>
 
 
     <link rel='stylesheet' id='contact-form-7-css' href="{{ asset ('new_template/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.4') }}" media='all'>
@@ -48,3 +45,6 @@
     <link rel="alternate" type="application/json+oembed" href="{{ asset ('new_template/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjthemes.com%2Fthemes%2Fwp%2Fjobbox%2F') }}">
     <link rel="alternate" type="text/xml+oembed" href="{{ asset ('new_template/wp-json/oembed/1.0/embed-1?url=https%3A%2F%2Fjthemes.com%2Fthemes%2Fwp%2Fjobbox%2F&#038;format=xml') }}">
     <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+    <link rel="stylesheet" href="{{asset('new_template/adjustments.css')}}" id="wp-emoji-styles-inline-css">
+    {{--    <link rel="stylesheet" href="{{asset('new_template/adjustments.css')}}" id="global-styles-inline-css">--}}
+    <script src="{{asset('new_template/adjustments.js')}}"></script>
