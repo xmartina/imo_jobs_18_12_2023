@@ -62,5 +62,6 @@
 <script data-turbo-eval="false">
     let defaultCountryCodeValue = "{{ getSettingValue('default_country_code')}}"
 </script>
+@include('front_web/layouts/new_template_footer_script')
 </body>
 </html>
