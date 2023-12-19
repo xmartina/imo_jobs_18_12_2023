@@ -2,4 +2,3 @@
 @section('title')
     {{ __('web.home') }}
 @endsection
-@section('content')
